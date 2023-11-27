@@ -49,7 +49,7 @@
 ## Contacts:
 
 <div> 
-<a href = "mailto:joaovcitor.allnet@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaovicitor.allnet@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="[https://www.linkedin.com/in/rafael-ladeia/](https://www.linkedin.com/in/joao-v%C3%ADctor-327a89213/overlay/contact-info/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
