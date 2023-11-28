@@ -49,7 +49,7 @@
 ## Contacts:
 
 <div> 
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.m.oliveira03@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictor.allnet@gmail.com)]
+ <a href = "joaovictor.allnet@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joao-v%C3%ADctor-327a89213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
